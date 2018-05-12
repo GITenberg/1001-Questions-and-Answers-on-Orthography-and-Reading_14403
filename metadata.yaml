@@ -1,0 +1,31 @@
+_repo: 1001-Questions-and-Answers-on-Orthography-and-Reading_14403
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hathaway, Benjamin Adams
+    alias: Hathaway, B. A. (Benjamin Adams)
+    birthdate: 1852
+    gutenberg_agent_id: '5504'
+    url: http://www.gutenberg.org/2009/agents/5504
+description: ''
+gutenberg_bookshelf: Reference
+gutenberg_issued: '2004-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Elocution'
+- !lcsh 'Reading'
+- !lcsh 'English language -- Pronunciation'
+- !lcsh 'English language -- Orthography and spelling'
+- !lcsh 'English language -- Usage'
+title: 1001 Questions and Answers on Orthography and Reading
+url: http://www.gutenberg.org/ebooks/14403
